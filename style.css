@@ -37,7 +37,7 @@ background-image: linear-gradient(
     flex-direction: column;
     align-items: center;
     background-color: #ffffff;
-    box-shadow: 5px 1px 20px rgba(0, 0, 0, 0.3);
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
     transition: all 0.25s ease-in;
 }
 .card:active{
